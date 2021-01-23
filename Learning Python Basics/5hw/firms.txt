@@ -1,0 +1,5 @@
+CDPrijectRed WTF 100000 6000000
+blizzard XXX 20000 10000
+microsoft 0.0 300000 500000
+noname AAA 600000 1000000
+stupid_company NOO 100000 0
